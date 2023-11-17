@@ -1,3 +1,4 @@
+when using Travel_advisor.ipynb please tack this on to push it to the dataframe
 Transfer DataFrame to SQL
 ## import libraries
 from sqlalchemy import create_engine
